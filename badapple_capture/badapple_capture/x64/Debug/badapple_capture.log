@@ -1,0 +1,4 @@
+﻿  badapple_capture.cpp
+c:\opencv\works\others\badapple_capture\badapple_capture\badapple_capture.cpp(18): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+  badapple_capture.vcxproj -> C:\opencv\works\others\badapple_capture\x64\Debug\badapple_capture.exe
+  badapple_capture.vcxproj -> C:\opencv\works\others\badapple_capture\x64\Debug\badapple_capture.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  badapple_zip.cpp
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  badapple_zip.vcxproj -> C:\opencv\works\others\badapple_zip\x64\Debug\badapple_zip.exe
+  badapple_zip.vcxproj -> C:\opencv\works\others\badapple_zip\x64\Debug\badapple_zip.pdb (Full PDB)

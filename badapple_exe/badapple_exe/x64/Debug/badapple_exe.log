@@ -1,0 +1,4 @@
+﻿  badapple_exe.cpp
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  badapple_exe.vcxproj -> C:\opencv\works\others\badapple_exe\x64\Debug\badapple_exe.exe
+  badapple_exe.vcxproj -> C:\opencv\works\others\badapple_exe\x64\Debug\badapple_exe.pdb (Full PDB)

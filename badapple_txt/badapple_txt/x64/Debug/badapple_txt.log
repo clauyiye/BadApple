@@ -1,0 +1,4 @@
+﻿  badapple_txt.cpp
+c:\opencv\works\others\badapple_txt\badapple_txt\badapple_txt.cpp(67): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  badapple_txt.vcxproj -> C:\opencv\works\others\badapple_txt\x64\Debug\badapple_txt.exe
+  badapple_txt.vcxproj -> C:\opencv\works\others\badapple_txt\x64\Debug\badapple_txt.pdb (Full PDB)

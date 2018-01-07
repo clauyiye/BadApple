@@ -1,0 +1,9 @@
+﻿  badapple_dzip.cpp
+badapple_dzip.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  1 of 5 functions (20.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  badapple_dzip.vcxproj -> C:\opencv\works\others\badapple_dzip\x64\Release\badapple_dzip.exe
+  badapple_dzip.vcxproj -> C:\opencv\works\others\badapple_dzip\x64\Release\badapple_dzip.pdb (Full PDB)
